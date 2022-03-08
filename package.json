@@ -1,0 +1,27 @@
+{
+  "name": "node.js-team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericaLorraineMitchell/node.js-team-profile-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericaLorraineMitchell/node.js-team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/ericaLorraineMitchell/node.js-team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.5.1"
+  }
+}
